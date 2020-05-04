@@ -1,4 +1,4 @@
-# Welcome to Varsharani Dhupadale's Blog
+# Welcome to Varsharani's Blog
 
 Hi there.
 
