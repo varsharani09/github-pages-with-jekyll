@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to Varsharani Dhupadale's Blog
 
-I'm glad you are here. I plan to talk about ...
+Hi there.
+
+Good morning :)
