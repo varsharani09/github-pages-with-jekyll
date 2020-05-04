@@ -9,5 +9,5 @@ twitter_username: VD075248 # DO NOT include the @ character, or else the build w
 github_username:  VD075248 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-slate
 
